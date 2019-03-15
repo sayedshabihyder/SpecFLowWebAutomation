@@ -93,6 +93,8 @@
     <None Include="SpecRunTestProfile_2011_09.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="specsync.json" />
+    <None Include="specsync4azuredevops.cmd" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Example\Example.csproj">
